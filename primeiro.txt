@@ -1,0 +1,1 @@
+Arquivo criado no dia 11 de agosto. Exemplo da aula sobre git.
